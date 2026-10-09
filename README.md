@@ -1,7 +1,5 @@
 # WebProject-BH-STORE
 
-# WebProject-BH-STORE-
-
 # 🛒 BH STORE
 
 ## 📌 Description
